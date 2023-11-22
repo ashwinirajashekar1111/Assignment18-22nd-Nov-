@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IConnectable.cs" />
+    <Compile Include="IDisplayable.cs" />
+    <Compile Include="IRecharable.cs" />
     <Compile Include="Laptop.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
